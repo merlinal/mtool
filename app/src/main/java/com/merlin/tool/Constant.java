@@ -1,4 +1,4 @@
-package com.merlin.tool;
+package com.merlin.core;
 
 /**
  * Created by ncm on 16/11/30.

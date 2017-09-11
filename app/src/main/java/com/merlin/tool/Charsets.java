@@ -1,4 +1,4 @@
-package com.merlin.tool;
+package com.merlin.core;
 
 
 import java.nio.charset.Charset;
