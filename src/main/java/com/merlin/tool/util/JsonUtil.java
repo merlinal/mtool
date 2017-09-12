@@ -1,4 +1,4 @@
-package com.merlin.tool;
+package com.merlin.tool.util;
 
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
