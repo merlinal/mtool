@@ -1,4 +1,4 @@
-package com.merlin.core;
+package com.merlin.tool;
 
 import org.junit.Test;
 
