@@ -2,7 +2,8 @@ package com.merlin.tool.tool;
 
 import android.view.View;
 
-import com.merlin.core.util.LogUtil;
+import com.merlin.tool.util.LogUtil;
+
 
 /**
  * Created by ncm on 16/11/30.

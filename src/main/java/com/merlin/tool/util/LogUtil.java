@@ -2,7 +2,8 @@ package com.merlin.tool.util;
 
 import android.util.Log;
 
-import com.merlin.core.context.AppContext;
+
+import com.merlin.tool.context.AppContext;
 
 import org.json.JSONArray;
 import org.json.JSONException;
